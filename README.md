@@ -6,7 +6,7 @@ Author : @YBI FOUNDATION
 
 # Mentee Info
 
-Name : Carlos Jonathan Gea
+Name : Carlos Jonathan Gea, Ghiffar Alfin Faiz, Ardian Fikri Abdulah
 
 Program : IBM Advance A.I.
 
